@@ -1,0 +1,18 @@
+{
+  "folder1": {
+    "total": 310,
+    "kept": 47,
+    "blur": 263,
+    "dark": 0,
+    "duplicate": 0
+  },
+  "folder2": {
+    "total": 480,
+    "kept": 198,
+    "blur": 278,
+    "dark": 4,
+    "duplicate": 0
+  },
+  "total_kept": 245,
+  "total_processed": 790
+}
